@@ -26,3 +26,6 @@ zerotier/zerotier-synology
 
 # 远程唤醒
 dabondi/go-rest-wol
+
+# DDNS解析
+jeessy/ddns-go

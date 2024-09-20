@@ -29,3 +29,9 @@ dabondi/go-rest-wol
 
 # DDNS解析
 jeessy/ddns-go
+
+# NAS媒体库自动化工具
+jxxghp/moviepilot
+
+# mtPhotos
+mtphotos/mt-photos

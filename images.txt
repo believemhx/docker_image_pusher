@@ -40,4 +40,10 @@ mtphotos/mt-photos
 yangchuansheng/ip_derper
 
 # php
-phpswoole
+phpswoole/swoole
+twosee/swoole-coroutine
+
+# crmeb-pro
+leekay0218/crmeb-pro
+# crmeb-pro(tp8+php8.0+swoole4)
+leekay0218/crmeb-pro-v3

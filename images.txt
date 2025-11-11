@@ -38,3 +38,6 @@ mtphotos/mt-photos
 
 # tailscale 自建derp
 yangchuansheng/ip_derper
+
+# php
+phpswoole
